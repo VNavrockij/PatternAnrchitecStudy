@@ -1,0 +1,35 @@
+{
+  "configurations" : [
+    {
+      "id" : "C4114350-5720-40B1-8844-FFFDFB386CE7",
+      "name" : "Ukrainian",
+      "options" : {
+        "language" : "uk"
+      }
+    },
+    {
+      "id" : "5A976C35-B5FD-41DF-8A26-6F7C30DA3323",
+      "name" : "English",
+      "options" : {
+        "language" : "en"
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:PatternAnrchitecStudy.xcodeproj",
+      "identifier" : "FA4C5D4F2B7D1D2800DC0A7D",
+      "name" : "PatternAnrchitecStudy"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:PatternAnrchitecStudy.xcodeproj",
+        "identifier" : "FA4C5D772B7D1DB800DC0A7D",
+        "name" : "PatternAnrchitecStudyTests"
+      }
+    }
+  ],
+  "version" : 1
+}
